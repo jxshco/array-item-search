@@ -1,3 +1,3 @@
 <h1 align="center">
-  timeout-promise
+  array-item-search
 </h1>
